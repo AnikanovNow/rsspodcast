@@ -27,7 +27,7 @@ jobs:
         run: |
           python scripts/generate_rss.py --playlist PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw --output youtube_podcast_rss.xml
 
-           - name: Commit and push
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
