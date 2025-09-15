@@ -2,8 +2,11 @@ name: Update RSS
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Запуск каждые 6 часов
-  workflow_dispatch:       # Позволяет запускать вручную из вкладки Actions
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,9 +16,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@74d5c5681915a7e62c1a42986363960c0e2d9272
 
-            - name: Set up Python
-        uses: actions/setup-python@e2a63f4fc37c76197d4b7ca581efb5f22e9e03ab
-
+      - name: Set up Python
+        uses: actions/setup-python@f664dcc4ef48e710e451ac916164c1b3856743c2
         with:
           python-version: '3.10'
 
@@ -30,8 +32,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add youtube_podcast_rss.xml || true
           if ! git diff --staged --quiet; then
             COMMIT_MESSAGE="Auto-update RSS: $(date -u +'%Y-%m-%d %H:%M:%S')"
