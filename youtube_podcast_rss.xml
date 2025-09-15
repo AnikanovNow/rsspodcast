@@ -21,6 +21,9 @@
 <language>
 <![CDATA[ en ]]>
 </language>
+<itunes:category text="Arts">
+  <itunes:category text="Books"/>
+</itunes:category>
 <item>
 <title>
 <![CDATA[ #139 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 4 ]]>
