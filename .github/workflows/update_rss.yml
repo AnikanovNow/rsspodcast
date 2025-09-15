@@ -27,13 +27,14 @@ jobs:
         run: |
           python scripts/generate_rss.py --playlist PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw --output youtube_podcast_rss.xml
 
-      - name: Commit and push
+           - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add youtube_podcast_rss.xml || true
           if ! git diff --staged --quiet; then
-            git commit -m "Auto-update RSS: $(date -u +'%Y-%m-%d %H:%M:%S')"
+            COMMIT_MESSAGE="Auto-update RSS: $(date -u +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "$COMMIT_MESSAGE"
             git push
           else
             echo "No changes to commit"
