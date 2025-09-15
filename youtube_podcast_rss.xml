@@ -1,25 +1,70 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Подкаст Югадхармы</title>
-    <link>https://www.youtube.com/playlist?list=PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw</link>
-    <description>Вайшнавские беседы, тренинги, духовные инсайты. Подкаст Югадхармы прабху.</description>
-    <language>ru</language>
-    <itunes:author>Югадхарма дас</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Religion &amp; Spirituality" />
-
-    <item>
-      <title>Тренинг: Конфликты и Эго</title>
-      <link>https://www.youtube.com/watch?v=QxRktHuLZj4</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=QxRktHuLZj4</guid>
-      <pubDate>Mon, 09 Sep 2024 10:00:00 +0000</pubDate>
-      <description>Югадхарма дас и участники тренинга обсуждают реальные вайшнавские конфликты и способы их преодоления.</description>
-      <enclosure url="https://www.youtube.com/watch?v=QxRktHuLZj4" type="video/mp4" />
-    </item>
-
-    <!-- Добавим ещё эпизоды сюда по аналогии -->
-
-  </channel>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Чайтанья Чаритамрита - YouTube</title>
+<description>Слово чаитанйа означает «жизненная сила», чарита — «характер» или «поведение», а амр̣ита — «бессмертный». Мы — живые существа, и потому можем двигаться, в отличие, например, от стола, в котором нет жизненной силы. Движение и деятельность можно назвать отличительными признаками жизненной силы. Без жизненной силы деятельность невозможна. Но, хотя жизненная сила может пребывать в материи, это ее окружение не бессмертно, не амрита. Таким образом, выражение чаитанйа-чарита̄мр̣та можно перевести как «...</description>
+<pubDate>Sun, 14 Sep 2025 04:25:16 +0000</pubDate>
+<link>https://www.youtube.com/playlist?list=PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw</link>
+<atom:link href="https://fetchrss.com/feed/aMalv_vPQV4SaMalmOx_Rm8i.rss" rel="self" type="application/rss+xml"/>
+<generator>https://fetchrss.com</generator>
+<image>
+<link>https://www.youtube.com/playlist?list=PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw</link>
+<url>https://res.cloudinary.com/dh2eofcns/provider/youtube.png</url>
+<title>Чайтанья Чаритамрита - YouTube</title>
+</image>
+<item>
+<title>#139 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 4</title>
+<link>https://www.youtube.com/watch?v=RRB7y-i69Ws</link>
+<description>
+<![CDATA[ <iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/RRB7y-i69Ws" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=68c6a598ecdb117f460a6f22" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator>anikanov live</dc:creator>
+<pubDate>Sun, 14 Sep 2025 04:25:16 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/RRB7y-i69Ws/sddefault_live.jpg" medium="image" width="640" height="480"/>
+<guid isPermaLink="false">RRB7y-i69Ws</guid>
+</item>
+<item>
+<title>#138 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 3</title>
+<link>https://www.youtube.com/watch?v=Xr7Sw0-0Tmo</link>
+<description>
+<![CDATA[ <iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/Xr7Sw0-0Tmo" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=68c6a598ecdb117f460a6f22" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator>anikanov live</dc:creator>
+<pubDate>Sat, 13 Sep 2025 04:26:43 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/Xr7Sw0-0Tmo/sddefault_live.jpg" medium="image" width="640" height="480"/>
+<guid isPermaLink="false">Xr7Sw0-0Tmo</guid>
+</item>
+<item>
+<title>#137 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 2</title>
+<link>https://www.youtube.com/watch?v=HJL7ts2W5kU</link>
+<description>
+<![CDATA[ <iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/HJL7ts2W5kU" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=68c6a598ecdb117f460a6f22" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator>anikanov live</dc:creator>
+<pubDate>Fri, 12 Sep 2025 04:28:02 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/HJL7ts2W5kU/sddefault.jpg" medium="image" width="640" height="480"/>
+<guid isPermaLink="false">HJL7ts2W5kU</guid>
+</item>
+<item>
+<title>#135 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 3 часть 5</title>
+<link>https://www.youtube.com/watch?v=yNtOer3tBLA</link>
+<description>
+<![CDATA[ <iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/yNtOer3tBLA" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=68c6a598ecdb117f460a6f22" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator>anikanov live</dc:creator>
+<pubDate>Wed, 10 Sep 2025 09:16:31 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/yNtOer3tBLA/sddefault.jpg" medium="image" width="640" height="480"/>
+<guid isPermaLink="false">yNtOer3tBLA</guid>
+</item>
+<item>
+<title>#134 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 3 часть 4</title>
+<link>https://www.youtube.com/watch?v=mcatHmZSmdU</link>
+<description>
+<![CDATA[ <iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/mcatHmZSmdU" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=68c6a598ecdb117f460a6f22" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator>anikanov live</dc:creator>
+<pubDate>Sat, 06 Sep 2025 04:38:21 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/mcatHmZSmdU/sddefault.jpg" medium="image" width="640" height="480"/>
+<guid isPermaLink="false">mcatHmZSmdU</guid>
+</item>
+</channel>
 </rss>
