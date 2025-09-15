@@ -1,12 +1,10 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
 <title>
 <![CDATA[ Чайтанья Чаритамрита ]]>
 </title>
 <description>
-<itunes:category text="Arts">
-  <itunes:category text="Books"/>
-</itunes:category>
 <![CDATA[ Чайтанья Чаритамрита ]]>
 </description>
 <link>https://www.youtube.com/playlist?list=PLSiLlNvYaVdUVIuzS5wL_s8izfq24jPrw</link>
@@ -21,9 +19,6 @@
 <language>
 <![CDATA[ en ]]>
 </language>
-<itunes:category text="Arts">
-  <itunes:category text="Books"/>
-</itunes:category>
 <item>
 <title>
 <![CDATA[ #139 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 4 ]]>
@@ -31,7 +26,7 @@
 <description>
 <![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/RRB7y-i69Ws" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
 </description>
-<link>https://music.youtube.com/watch?v=RRB7y-i69Ws</link>
+<link>https://www.youtube.com/watch?v=RRB7y-i69Ws</link>
 <guid isPermaLink="false">c615ed3c6a41262f5cfa62f9c894f212</guid>
 <dc:creator>
 <![CDATA[ anikanov live ]]>
@@ -258,21 +253,6 @@
 </description>
 <link>https://www.youtube.com/watch?v=4T0l102R7E0</link>
 <guid isPermaLink="false">8ce68c8795e29d54eb60807098cf9504</guid>
-<dc:creator>
-<![CDATA[ anikanov live ]]>
-</dc:creator>
-<pubDate>Mon, 15 Sep 2025 04:49:28 GMT</pubDate>
-<media:content medium="image" url="https://i4.ytimg.com/vi/KWUo90xyeiI/sddefault.jpg"/>
-</item>
-<item>
-<title>
-<![CDATA[ #121 Чтение Шри Чайтанья Чаритамриты | Антья-лила | Глава 4 часть 1 ]]>
-</title>
-<description>
-<![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Xr7Sw0-0Tmo" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
-</description>
-<link>https://youtube.com/live/bGimRIsib5s?feature=share</link>
-<guid isPermaLink="false">06482e94b58715ba69d54f805a674944</guid>
 <dc:creator>
 <![CDATA[ anikanov live ]]>
 </dc:creator>
